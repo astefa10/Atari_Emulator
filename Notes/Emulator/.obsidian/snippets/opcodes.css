@@ -1,0 +1,10 @@
+.legal-opcode {
+    background-color: green;
+    color: white; /* Optional: changes text color */
+}
+
+.illegal-opcode {
+    background-color: red;
+    color: white;
+}
+

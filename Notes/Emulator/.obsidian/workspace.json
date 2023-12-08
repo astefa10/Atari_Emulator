@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "126b3eba31c88b2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "73593614e8b3eea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c2be80d16019f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIA (Television Interface Adapter) Emulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc1be0a3699bc178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6507_Opcodes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cde91df35cf59785",
+    "type": "split",
+    "children": [
+      {
+        "id": "96084ed17a4c206c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f081b48f5e5a430a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab82afb1fc549b68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecda9c3eedd7c90b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63d2f25ce887a311",
+    "type": "split",
+    "children": [
+      {
+        "id": "01b869e50c32035a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64f7341a4d7b4d01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6507_Opcodes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f6094363d6b6f95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6507_Opcodes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10f4705a1d3a8280",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1172db6994f07a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6507_Opcodes.md"
+              }
+            }
+          },
+          {
+            "id": "e4ec50d181ea4745",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bc1be0a3699bc178",
+  "lastOpenFiles": [
+    "MOS 6507 CPU Emulation.md",
+    "Atari 2600 Emulator Project.md",
+    "6507_Opcodes.md",
+    "TIA (Television Interface Adapter) Emulation.md",
+    "lu2230092bfc3h.tmp",
+    "opcodes.csv",
+    "Untitled Document",
+    "Untitled.md",
+    "HTML import/6502 Instruction Set.md",
+    "HTML import",
+    "Untitled 1",
+    "6502 Instruction Set.html",
+    "Graphics Emulation (TIA).md",
+    "CPU Emulation.md",
+    "Atari 2600 - TIA.md",
+    "Untitled"
+  ]
+}
