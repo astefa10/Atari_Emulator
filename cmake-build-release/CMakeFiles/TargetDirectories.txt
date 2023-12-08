@@ -1,0 +1,3 @@
+/media/Plex Library/dev/Atari Emulator/cmake-build-release/CMakeFiles/Atari_Emulator.dir
+/media/Plex Library/dev/Atari Emulator/cmake-build-release/CMakeFiles/edit_cache.dir
+/media/Plex Library/dev/Atari Emulator/cmake-build-release/CMakeFiles/rebuild_cache.dir

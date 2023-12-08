@@ -1,0 +1,5 @@
+# ninja log v5
+247	309	1700564607882706800	Atari_Emulator	e879890128402606
+1	281	1700564566483264600	CMakeFiles/Atari_Emulator.dir/src/cpu.cpp.o	b9aff76642912920
+1	107	1700564549152730700	CMakeFiles/Atari_Emulator.dir/src/memory.cpp.o	3c9e071351858ca0
+1	247	1700564607821699000	CMakeFiles/Atari_Emulator.dir/main.cpp.o	b8026e87a3162a7
