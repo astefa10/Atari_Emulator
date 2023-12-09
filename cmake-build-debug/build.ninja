@@ -77,6 +77,13 @@ build CMakeFiles/Atari_Emulator.dir/tests/CpuTests.cpp.o: CXX_COMPILER__Atari_Em
   OBJECT_DIR = CMakeFiles/Atari_Emulator.dir
   OBJECT_FILE_DIR = CMakeFiles/Atari_Emulator.dir/tests
 
+build CMakeFiles/Atari_Emulator.dir/src/tia.cpp.o: CXX_COMPILER__Atari_Emulator_unscanned_Debug /media/Plex$ Library/dev/Atari$ Emulator/src/tia.cpp || cmake_object_order_depends_target_Atari_Emulator
+  DEP_FILE = CMakeFiles/Atari_Emulator.dir/src/tia.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"/media/Plex Library/dev/Atari Emulator/." -I"/media/Plex Library/dev/Atari Emulator/include"
+  OBJECT_DIR = CMakeFiles/Atari_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles/Atari_Emulator.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Atari_Emulator
@@ -85,7 +92,7 @@ build CMakeFiles/Atari_Emulator.dir/tests/CpuTests.cpp.o: CXX_COMPILER__Atari_Em
 #############################################
 # Link the executable Atari_Emulator
 
-build Atari_Emulator: CXX_EXECUTABLE_LINKER__Atari_Emulator_Debug CMakeFiles/Atari_Emulator.dir/src/cpu.cpp.o CMakeFiles/Atari_Emulator.dir/main.cpp.o CMakeFiles/Atari_Emulator.dir/src/memory.cpp.o CMakeFiles/Atari_Emulator.dir/tests/CpuTests.cpp.o
+build Atari_Emulator: CXX_EXECUTABLE_LINKER__Atari_Emulator_Debug CMakeFiles/Atari_Emulator.dir/src/cpu.cpp.o CMakeFiles/Atari_Emulator.dir/main.cpp.o CMakeFiles/Atari_Emulator.dir/src/memory.cpp.o CMakeFiles/Atari_Emulator.dir/tests/CpuTests.cpp.o CMakeFiles/Atari_Emulator.dir/src/tia.cpp.o
   FLAGS = -g
   LINK_LIBRARIES = -lpthread
   OBJECT_DIR = CMakeFiles/Atari_Emulator.dir

@@ -16,7 +16,9 @@ add_executable(Atari_Emulator
         main.cpp
         include/memory.h
         src/memory.cpp
-        tests/CpuTests.cpp)
+        tests/CpuTests.cpp
+        include/tia.h
+        src/tia.cpp)
 
 # Link Google Test to your executable
 target_link_libraries(Atari_Emulator ${GTEST_LIBRARIRIES} pthread)
